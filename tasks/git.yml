@@ -1,4 +1,5 @@
-- git:
+- name: Check dotsimple git
+  git:
     repo: 'https://github.com/ricknosnow/dotsimple.git'
     dest: /home/rick
     clone: no
