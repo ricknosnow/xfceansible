@@ -3,6 +3,6 @@
     become: yes
     become_user: rick
     repo: 'https://github.com/ricknosnow/dotsimple.git'
-    dest: /home/rick
+    dest: ~/code
     clone: yes
     update: no
