@@ -1,5 +1,7 @@
 - name: Check dotsimple git
   git:
+    become: yes
+    become_user: rick
     repo: 'https://github.com/ricknosnow/dotsimple.git'
     dest: /home/rick
     clone: yes
