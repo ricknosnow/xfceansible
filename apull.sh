@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ansible-pull -U https://github.com/ricknosnow/ansible.git
+sudo ansible-pull -U https://github.com/ricknosnow/xfceansible.git
