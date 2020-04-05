@@ -11,3 +11,4 @@
     - include: tasks/packages.yml
     - include: tasks/git.yml
     - include: tasks/snaps.yml
+    - include: tasks/ubuntuGuiApps.yml

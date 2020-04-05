@@ -1,0 +1,6 @@
+- name: Install Ubuntu Gui packages
+  apt:
+    pkg:
+    - nextcloud-desktop
+    - vlc
+    - mpv
