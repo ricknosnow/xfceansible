@@ -10,3 +10,4 @@
     - include: tasks/cron.yml
     - include: tasks/packages.yml
     - include: tasks/git.yml
+    - include: tasks/snaps.yml

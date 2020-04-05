@@ -1,0 +1,6 @@
+- name: Install snaps
+  snap:
+    name:
+      - telegram-desktop
+      - spotify
+      - youtube-dl
