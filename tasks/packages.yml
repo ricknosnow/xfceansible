@@ -11,3 +11,4 @@
     - rsync
     - stow
     - w3m
+    - fasd
