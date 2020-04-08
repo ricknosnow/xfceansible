@@ -10,3 +10,6 @@
     - fish
     - rsync
     - stow
+    - w3m
+    - fasd
+    - figlet
